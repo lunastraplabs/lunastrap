@@ -21,8 +21,6 @@ Lunastrap is a fork and replacement of Bloxstrap.
 
 Found any bugs? [Submit a issue](https://github.com/lunastraplabs/lunastrap/issues). or create a bug report in our [Discord server](https://discord.gg/sGqUH7RV2J).
 
-Lunastrap is only for PCs running Windows.
-
 ## Questions
 
 **Q: Is this malware?**
@@ -35,9 +33,12 @@ Lunastrap is only for PCs running Windows.
 
 ## Installing
 
+> [!NOTE]
+> Lunastrap is only for PCs running Windows.
+
 Download the [latest release via clicking this](https://github.com/lunastraplabs/lunastrap/releases/latest), and run it. Do the steps and config you're settings.
 
-You will also need [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
+You will also need [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Lunastrap after you've installed this.
 
 It's not unlikely that Windows Smartscreen will show a popup when you run Lunastrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
 
