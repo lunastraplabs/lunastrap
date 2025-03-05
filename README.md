@@ -37,7 +37,7 @@ Download the [latest release via clicking this](https://github.com/lunastraplabs
 
 You will also need [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
 
-It's not unlikely that Windows Smartscreen will show a popup when you run Bloxstrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
+It's not unlikely that Windows Smartscreen will show a popup when you run Lunastrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
 
 Once installed, Lunastrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
 
