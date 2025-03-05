@@ -1,3 +1,6 @@
+> [!CAUTION]
+> The only official place to download Lunastrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
+
 <p align="center">
     <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
     <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
@@ -9,9 +12,6 @@
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
 [![Discord][shield-discord-server]][discord-invite]
-
-> [!CAUTION]
-> The only official place to download Lunastrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
 </div>
 
