@@ -9,7 +9,6 @@
 <div align="center">
 
 [![License][shield-repo-license]][repo-license]
-[![Github Workflow Status][shield-repo-workflow]][repo-actions]
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
 [![Discord][shield-discord-server]][discord-invite]
@@ -48,7 +47,6 @@ Lunastrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the use
 
 
 [shield-repo-license]:  https://img.shields.io/github/license/lunastraplabs/lunastrap
-[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/lunastraplabs/lunastrap/ci-release.yml?branch=main&label=builds
 [shield-repo-releases]: https://img.shields.io/github/downloads/bloxstraplabs/bloxstrap/latest/total?color=100da1
 [shield-repo-latest]:   https://img.shields.io/github/v/release/bloxstraplabs/bloxstrap?color=100da1
 
