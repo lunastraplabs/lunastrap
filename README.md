@@ -19,7 +19,7 @@
 
 Lunastrap is a fork and replacement of Bloxstrap.
 
-Do you have a problem or need help? [Report a issue](https://github.com/lunastraplabs/lunastrap/issues).
+Found any bugs? [Submit a issue](https://github.com/lunastraplabs/lunastrap/issues). or create a bug report in our [Discord server](https://discord.gg/sGqUH7RV2J).
 
 Lunastrap is only for PCs running Windows.
 
