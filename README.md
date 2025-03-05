@@ -26,9 +26,11 @@ Lunastrap is only for PCs running Windows.
 ## Questions
 
 **Q: Is this malware?**
+
 **A:** No. Lunastrap is open source, it's impossible to put malware without anyone noticing. Just download from this github. The only offical source is this Github repository.
 
 **Q: Can i be banned?**
+
 **A:** No. Lunastrap doesn't inject an dll to Roblox or do stuff that exploits do, It is impossible to be banned with Lunastrap.
 
 ## Installing
