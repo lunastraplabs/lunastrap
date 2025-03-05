@@ -1,10 +1,14 @@
-> [!CAUTION]
-> The only official place to download Lunastrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
+# Lunastrap
 
-<p align="center">
-    <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
-</p>
+> [!WARNING]
+> 
+> This is a fork of bloxstrap and not bloxstrap
+> The original one is at [bloxstraplabs/bloxstrap](<https://github.com/bloxstraplabs/bloxstrap>)
+
+<div align="center">
+  <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420" alt="Lunastrap Dark Mode">
+  <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420" alt="Lunastrap Light Mode">
+</div>
 
 <div align="center">
 
@@ -15,49 +19,51 @@
 
 </div>
 
-----
+---
 
-Lunastrap is a fork and replacement of Bloxstrap.
+## Overview
 
-Found any bugs? [Submit a issue](https://github.com/lunastraplabs/lunastrap/issues). or create a bug report in our [Discord server](https://discord.gg/sGqUH7RV2J).
+Lunastrap is a fork and replacement of Bloxstrap—designed with open-source transparency to ensure a safe and reliable experience. If you find any bugs, please [submit an issue](https://github.com/lunastraplabs/lunastrap/issues) or report it in our [Discord server](https://discord.gg/sGqUH7RV2J).
 
-## Questions
+---
 
-**Q: Is this malware?**
+## Frequently Asked Questions
 
-**A:** No. Lunastrap is open source, it's impossible to put malware without anyone noticing. Just download from this github. The only offical source is this Github repository.
+### Is this malware?
+**Answer:**  
+No. Lunastrap is completely open source, which means any attempt to include malware would be quickly identified by the community. Always download from this [GitHub repository](https://github.com/lunastraplabs/lunastrap).
 
-**Q: Can i be banned?**
+### Can I be banned?
+**Answer:**  
+No. Lunastrap does not inject any DLLs into Roblox or perform exploitative actions. It is designed to be safe and ensures that you won’t be banned.
 
-**A:** No. Lunastrap doesn't inject an dll to Roblox or do stuff that exploits do, It is impossible to be banned with Lunastrap.
+---
 
-## Installing
+## Installation
 
-> [!NOTE]
-> Lunastrap is only for PCs running Windows.
+> **Note:** Lunastrap is for Windows PCs only.
 
-Download the [latest release via clicking this](https://github.com/lunastraplabs/lunastrap/releases/latest), and run it. Do the steps and config you're settings.
+1. **Download:** Get the [latest release](https://github.com/lunastraplabs/lunastrap/releases/latest) and run it.
+2. **Configure:** Follow the on-screen steps to configure your settings.
+3. **Dependencies:** Ensure you have the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true) installed. If it’s not installed, you’ll be prompted to install it.
+4. **Access:** Once installed, Lunastrap will be added to your Start Menu for easy access and configuration.
 
-You will also need [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Lunastrap after you've installed this.
+> **Tip:** Windows Smartscreen may display a warning when running Lunastrap for the first time. Simply click "More info" and then "Run anyway" to proceed.
 
-It's not unlikely that Windows Smartscreen will show a popup when you run Lunastrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
+---
 
-Once installed, Lunastrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
+## Code and Libraries
 
-## Code
+Lunastrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for its user interface. We maintain our own fork at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
 
-Lunastrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain bloxstrap's own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
+---
 
-
-[shield-repo-license]:  https://img.shields.io/github/license/lunastraplabs/lunastrap
+[shield-repo-license]: https://img.shields.io/github/license/lunastraplabs/lunastrap
 [shield-repo-releases]: https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?color=100da1
-[shield-repo-latest]:   https://img.shields.io/github/v/release/lunastraplabs/lunastrap?color=100da1
-
+[shield-repo-latest]: https://img.shields.io/github/v/release/lunastraplabs/lunastrap?color=100da1
 [shield-discord-server]: https://img.shields.io/discord/1346760094578249728?logo=discord&logoColor=white&label=discord&color=4d3dff
 
-[repo-license]:  https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/lunastraplabs/lunastrap/actions
+[repo-license]: https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
 [repo-releases]: https://github.com/lunastraplabs/lunastrap/releases
-[repo-latest]:   https://github.com/lunastraplabs/lunastrap/releases/latest
-
-[discord-invite]:  https://discord.gg/sGqUH7RV2J
+[repo-latest]: https://github.com/lunastraplabs/lunastrap/releases/latest
+[discord-invite]: https://discord.gg/sGqUH7RV2J
