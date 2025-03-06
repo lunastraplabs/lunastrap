@@ -50,7 +50,8 @@ No. Lunastrap does not inject any DLLs into Roblox or perform exploitative actio
 3. **Dependencies:** Ensure you have the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true) installed. If it’s not installed, you’ll be prompted to install it.
 4. **Access:** Once installed, Lunastrap will be added to your Start Menu for easy access and configuration.
 
-> **Tip:** Windows Smartscreen may display a warning when running Lunastrap for the first time. Simply click "More info" and then "Run anyway" to proceed.
+> [!TIP]
+> Windows Smartscreen may display a warning when running Lunastrap for the first time. Simply click "More info" and then "Run anyway" to proceed.
 
 ---
 
