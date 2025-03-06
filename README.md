@@ -42,7 +42,8 @@ No. Lunastrap does not inject any DLLs into Roblox or perform exploitative actio
 
 ## Installation
 
-> **Note:** Lunastrap is for Windows PCs only.
+> [!NOTE]
+> Lunastrap is for Windows PCs only, Linux & MAC is not supported.
 
 1. **Download:** Get the [latest release](https://github.com/lunastraplabs/lunastrap/releases/latest) and run it.
 2. **Configure:** Follow the on-screen steps to configure your settings.
