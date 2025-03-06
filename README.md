@@ -56,7 +56,7 @@ No. Lunastrap does not inject any DLLs into Roblox or perform exploitative actio
 
 ## Code and Libraries
 
-Lunastrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for its user interface. We maintain our own fork at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
+Lunastrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for its user interface. Bloxstrap maintains they're own fork at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
 
 ---
 
