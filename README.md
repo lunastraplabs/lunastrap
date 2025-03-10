@@ -4,7 +4,7 @@
 > 
 > This is a fork of bloxstrap and not bloxstrap
 >
-> The original one is at [bloxstraplabs/bloxstrap](<https://github.com/bloxstraplabs/bloxstrap>)
+> The original one is at [bloxstraplabs/bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
 
 <div align="center">
   <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420" alt="Lunastrap Dark Mode">
