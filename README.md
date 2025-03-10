@@ -17,6 +17,7 @@
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
 [![Discord][shield-discord-server]][discord-invite]
+[![Stars][shield-repo-stars]][repo-stars]
 
 </div>
 
@@ -65,8 +66,10 @@ Lunastrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for its use
 [shield-repo-releases]: https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?style=flat-square&color=100da1
 [shield-repo-latest]: https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat-square&color=100da1
 [shield-discord-server]: https://img.shields.io/discord/1346760094578249728?logo=discord&style=flat-square&logoColor=white&label=discord&color=4d3dff
+[shield-repo-stars]:      https://img.shields.io/github/stars/returnrqt/fishstrap?style=flat-square&color=dd9900
 
 [repo-license]: https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
 [repo-releases]: https://github.com/lunastraplabs/lunastrap/releases
 [repo-latest]: https://github.com/lunastraplabs/lunastrap/releases/latest
 [discord-invite]: https://discord.gg/sGqUH7RV2J
+[repo-stars]: https://github.com/lunastraplabs/lunastrap/stargazers
