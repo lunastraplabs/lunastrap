@@ -32,6 +32,17 @@ Lunastrap is a fork and replacement of Bloxstrap—designed with open-source tra
 
 ---
 
+## Differences from Bloxstrap
+
+- Integrations
+  - Player logs - Players leaving/joining server
+  - Message logs
+  - Multi-instance launching
+- Deployment
+  - Channel switcher
+
+---
+
 ## Frequently Asked Questions
 
 ### Is this malware?
