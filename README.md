@@ -1,11 +1,5 @@
 # Lunastrap
 
-> [!WARNING]
-> 
-> This is a fork of bloxstrap and not bloxstrap
->
-> The original one is at [bloxstraplabs/bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
-
 > [!CAUTION]
 > The only official places to download Lunastrap are this GitHub repository and [lunastraplabs.github.io](https://lunastraplabs.github.io). Any other websites offering downloads or claiming to be us are not controlled by us.
 
