@@ -32,6 +32,10 @@ Lunastrap is a fork and replacement of Bloxstrap—designed with open-source tra
   - Multi-instance launching
 - Deployment
   - Channel switcher
+- Engine Settings
+  - Rendering mode
+    - Vulkan
+    - OpenGL
 
 ---
 
