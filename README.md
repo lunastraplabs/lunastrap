@@ -1,5 +1,3 @@
-# Lunastrap
-
 > [!CAUTION]
 > The only official places to download Lunastrap are this GitHub repository and [lunastraplabs.github.io](https://lunastraplabs.github.io). Any other websites offering downloads or claiming to be us are not controlled by us.
 
