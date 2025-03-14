@@ -18,6 +18,11 @@
 
 ---
 
+> [!WARNING]
+> Other languages are not supported, it will say stuff about Bloxstrap.
+
+---
+
 ## Overview
 
 Lunastrap is a fork and replacement of Bloxstrap—designed with open-source transparency to ensure a safe and reliable experience. If you find any bugs, please [submit an issue](https://github.com/lunastraplabs/lunastrap/issues) or report it in our [Discord server](https://discord.gg/YnZkKmUCuJ).
