@@ -19,9 +19,26 @@
 
 ----
 
-Lunastrap is a fork and replacement of Bloxstrap.
+Lunastrap is a fork of Bloxstrap to enhance features.
 
-Do you have a problem or need help? [Report a issue](https://github.com/lunastraplabs/lunastrap/issues).
+Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/sGqUH7RV2J).
+
+----
+
+## Differences from Bloxstrap
+
+- Integrations
+  - Player logs - Players leaving/joining server
+  - Message logs
+- Deployment
+  - Channel switcher
+  - Automatic channel change action
+- Engine Settings
+  - Presets
+    - Disable Roblox telemetry
+  - Rendering mode
+    - Vulkan
+    - OpenGL
 
 ----
 
