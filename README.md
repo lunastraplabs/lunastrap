@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official place to download Lunastrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official place to download Lunastrap are this GitHub repository and [lunastraplabs.github.io](https://lunastraplabs.github.io). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
     <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
@@ -33,7 +33,7 @@ Lunastrap is only for PCs running Windows.
 
 No. Lunastrap is open source, it's impossible to put malware without anyone noticing. Just download from this github. The only offical source is this Github repository.
 
-### Q: Can i be banned?
+### Can i be banned?
 
 No. Lunastrap doesn't inject any DLLs to Roblox or do stuff that exploits do, It is impossible to be banned with Lunastrap.
 
