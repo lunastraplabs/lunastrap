@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Lunastrap Preview](https://i.imgur.com/dohmTWP.png)
+[![Lunastrap Preview]](https://i.imgur.com/dohmTWP.png)
 
 [![License][shield-repo-license]][repo-license]
 [![Downloads][shield-repo-releases]][repo-releases]
