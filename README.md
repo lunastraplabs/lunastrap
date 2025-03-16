@@ -25,30 +25,31 @@ Do you have a problem or need help? [Report a issue](https://github.com/lunastra
 
 Lunastrap is only for PCs running Windows.
 
+----
 
-## Questions
+## Frequently Asked Questions
 
-**Q: Is this malware?**
+### Is this malware?
 
-**A:** No. Lunastrap is open source, it's impossible to put malware without anyone noticing. Just download from this github. The only offical source is this Github repository.
+No. Lunastrap is open source, it's impossible to put malware without anyone noticing. Just download from this github. The only offical source is this Github repository.
 
-**Q: Can i be banned?**
+### Q: Can i be banned?
 
-**A:** No. Lunastrap doesn't inject an dll to Roblox or do stuff that exploits do, It is impossible to be banned with Lunastrap.
+No. Lunastrap doesn't inject any DLLs to Roblox or do stuff that exploits do, It is impossible to be banned with Lunastrap.
+
+----
 
 ## Installing
 
-Download the [latest release via clicking this](https://github.com/lunastraplabs/lunastrap/releases/latest), and run it. Do the steps and config you're settings.
+**1.** Download the [latest release via clicking this](https://github.com/lunastraplabs/lunastrap/releases/latest), and run it. Do the steps and config you're settings.
 
-You will also need [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
+**2.** Lunastrap requires the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). if it’s not already installed, The installer will prompt you to install it.
 
-It's not unlikely that Windows Smartscreen will show a popup when you run Lunastrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
+**3.** Windows Smartscreen may show a warning when you run Lunastrap for the first time. This is because it's an unknown program, not because it’s malicious. Click More Info > Run Anyway to proceed and use Lunastrap.
 
-Once installed, Lunastrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
+**4.** Once installed, Lunastrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
 
-## Code
-
-Lunastrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain bloxstrap's own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
+----
 
 [shield-repo-license]:  https://img.shields.io/github/license/lunastraplabs/lunastrap
 [shield-repo-releases]: https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?color=100da1
