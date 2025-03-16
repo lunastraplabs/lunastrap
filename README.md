@@ -49,6 +49,10 @@ No. Lunastrap doesn't inject any DLLs to Roblox or do stuff that exploits do, It
 
 ----
 
+### Considering a switch? [Download it here][repo-latest].
+
+---
+
 [shield-repo-license]:  https://img.shields.io/github/license/lunastraplabs/lunastrap
 [shield-repo-releases]: https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?color=100da1
 [shield-repo-latest]:   https://img.shields.io/github/v/release/lunastraplabs/lunastrap?color=100da1
