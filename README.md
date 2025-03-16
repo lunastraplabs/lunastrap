@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Lunastrap Preview](https://i.imgur.com/dohmTWP.png)]
+[![Lunastrap Preview](https://i.imgur.com/dohmTWP.png)
 
 [![License][shield-repo-license]][repo-license]
 [![Downloads][shield-repo-releases]][repo-releases]
@@ -24,6 +24,7 @@ Lunastrap is a fork and replacement of Bloxstrap.
 Do you have a problem or need help? [Report a issue](https://github.com/lunastraplabs/lunastrap/issues).
 
 Lunastrap is only for PCs running Windows.
+
 
 ## Questions
 
@@ -48,7 +49,6 @@ Once installed, Lunastrap is added to your Start Menu, where you can access the 
 ## Code
 
 Lunastrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain bloxstrap's own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
-
 
 [shield-repo-license]:  https://img.shields.io/github/license/lunastraplabs/lunastrap
 [shield-repo-releases]: https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?color=100da1
