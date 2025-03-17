@@ -8,6 +8,10 @@
 
 <div align="center">
 
+Lunastrap is a Bloxstrap fork aiming to enhance features.
+
+Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/sGqUH7RV2J).
+
 ![Lunastrap Preview](https://i.imgur.com/dohmTWP.png)
 
 [![License][shield-repo-license]][repo-license]
@@ -22,12 +26,6 @@
 
 > [!WARNING]
 > Other languages are not supported, it will say stuff about Bloxstrap.
-
----
-
-## Overview
-
-Lunastrap is a fork and replacement of Bloxstrap—designed with open-source transparency to ensure a safe and reliable experience. If you find any bugs, please [submit an issue](https://github.com/lunastraplabs/lunastrap/issues) or report it in our [Discord server](https://discord.gg/YnZkKmUCuJ).
 
 ---
 
