@@ -8,11 +8,11 @@
 
 <div align="center">
 
+![Lunastrap Preview](https://i.imgur.com/dohmTWP.png)
+
 Lunastrap is a Bloxstrap fork aiming to enhance features.
 
 Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/sGqUH7RV2J).
-
-![Lunastrap Preview](https://i.imgur.com/dohmTWP.png)
 
 [![License][shield-repo-license]][repo-license]
 [![Downloads][shield-repo-releases]][repo-releases]
