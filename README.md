@@ -24,11 +24,6 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 ---
 
-> [!WARNING]
-> Other languages are not supported, it will say stuff about Bloxstrap.
-
----
-
 ## Differences from Bloxstrap
 
 - Integrations
