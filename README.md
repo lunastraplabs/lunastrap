@@ -59,8 +59,6 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 ### Considering switching? [Download it here](https://github.com/lunastraplabs/lunastrap/releases).
 
----
-
 [shield-repo-license]: https://img.shields.io/github/license/lunastraplabs/lunastrap?style=flat-square
 [shield-repo-releases]: https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?style=flat-square&color=100da1
 [shield-repo-latest]: https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat-square&color=100da1
