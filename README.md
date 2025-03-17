@@ -33,23 +33,12 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 - Deployment
   - Channel switcher
 - Engine Settings
+  - Removed editor access warning
   - Presets
     - Disable roblox telemetry
   - Rendering mode
     - Vulkan
     - OpenGL
-
----
-
-## Frequently Asked Questions
-
-### Is this malware?
-**Answer:**  
-No. Lunastrap is completely open source, which means any attempt to include malware would be quickly identified by the community. Always download from this [GitHub repository](https://github.com/lunastraplabs/lunastrap).
-
-### Can I be banned?
-**Answer:**  
-No. Lunastrap does not inject any DLLs into Roblox or perform exploitative actions. It is designed to be safe and ensures that you won’t be banned.
 
 ---
 
