@@ -14,11 +14,11 @@ Lunastrap is a Bloxstrap fork aiming to enhance features.
 
 Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/sGqUH7RV2J).
 
-[![License][shield-repo-license]][repo-license]
-[![Downloads][shield-repo-releases]][repo-releases]
-[![Version][shield-repo-latest]][repo-latest]
-[![Discord][shield-discord-server]][discord-invite]
-[![Stars][shield-repo-stars]][repo-stars]
+[![License][badge-repo-license]][repo-license]
+[![Downloads][badge-repo-releases]][repo-releases]
+[![Version][badge-repo-latest]][repo-latest]
+[![Discord][badge-discord]][discord-invite]
+[![Stars][badge-repo-stars]][repo-stars]
 
 </div>
 
@@ -59,11 +59,12 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 ### Considering switching? [Download it here](https://github.com/lunastraplabs/lunastrap/releases).
 
-[shield-repo-license]: https://img.shields.io/github/license/lunastraplabs/lunastrap?style=flat-square
-[shield-repo-releases]: https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?style=flat-square&color=100da1
-[shield-repo-latest]: https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat-square&color=100da1
-[shield-discord-server]: https://img.shields.io/discord/1346760094578249728?logo=discord&style=flat-square&logoColor=white&label=discord&color=4d3dff
-[shield-repo-stars]:      https://img.shields.io/github/stars/lunastraplabs/lunastrap?style=flat-square&color=dd9900
+[badge-repo-license]: https://img.shields.io/github/license/lunastraplabs/lunastrap?style=flat-square
+[badge-repo-releases]: https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?style=flat-square&color=100da1
+[badge-repo-latest]: https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat-square&color=100da1
+[badge-repo-stars]:      https://img.shields.io/github/stars/lunastraplabs/lunastrap?style=flat-square&color=dd9900
+
+[badge-discord]: https://img.shields.io/discord/1346760094578249728?logo=discord&style=flat-square&logoColor=white&label=discord&color=4d3dff
 
 [repo-license]: https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
 [repo-releases]: https://github.com/lunastraplabs/lunastrap/releases
