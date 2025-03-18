@@ -68,9 +68,9 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 [badge-discord]: https://img.shields.io/discord/1346760094578249728?logo=discord&style=flat-square&logoColor=white&label=discord&color=4d3dff
 
-[repo-license]:  https://github.com/returnrqt/fishstrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/returnrqt/fishstrap/actions
-[repo-releases]: https://github.com/returnrqt/fishstrap/releases
-[repo-latest]:   https://github.com/returnrqt/fishstrap/releases/latest
+[repo-license]:  https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
+[repo-actions]:  https://github.com/lunastraplabs/lunastrap/actions
+[repo-releases]: https://github.com/lunastraplabs/lunastrap/releases
+[repo-latest]:   https://github.com/lunastraplabs/lunastrap/releases/latest
 [repo-stars]: https://github.com/lunastraplabs/lunastrap/stargazers
 [discord-invite]: https://discord.gg/sGqUH7RV2J
