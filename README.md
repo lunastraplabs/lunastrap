@@ -12,7 +12,7 @@
 
 Lunastrap is a Bloxstrap fork aiming to enhance features.
 
-Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/sGqUH7RV2J).
+Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose).
 
 [![License][badge-repo-license]][repo-license]
 [![Workflow][badge-repo-workflow]][repo-actions]
