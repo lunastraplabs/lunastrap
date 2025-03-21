@@ -43,21 +43,6 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 ---
 
-## Installation
-
-> [!NOTE]
-> Lunastrap is for Windows PCs only, Linux & MAC is not supported.
-
-1. **Download:** Get the [latest release](https://github.com/lunastraplabs/lunastrap/releases/latest) and run it.
-2. **Configure:** Follow the on-screen steps to configure your settings.
-3. **Dependencies:** Ensure you have the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true) installed. If it’s not installed, you’ll be prompted to install it.
-4. **Access:** Once installed, Lunastrap will be added to your Start Menu for easy access and configuration.
-
-> [!TIP]
-> Windows Smartscreen may display a warning when running Lunastrap for the first time. Simply click "More info" and then "Run anyway" to proceed.
-
----
-
 ### Considering switching? [Download it here](https://github.com/lunastraplabs/lunastrap/releases).
 
 [badge-repo-license]:    https://img.shields.io/github/license/lunastraplabs/lunastrap?style=flat-square
