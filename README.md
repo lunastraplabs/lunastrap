@@ -40,6 +40,8 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
   - Rendering mode
     - Vulkan
     - OpenGL
+- Extras
+  - Custom bootstrapper themes
 
 ---
 
