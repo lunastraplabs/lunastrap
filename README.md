@@ -27,10 +27,6 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 ## Differences from Bloxstrap
 
-- Integrations
-  - Player logs - Players leaving/joining server
-  - Message logs
-  - Multi-instance launching
 - Deployment
   - Channel switcher
 - Engine Settings
