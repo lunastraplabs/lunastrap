@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Lunastrap are this GitHub repository and [lunastraplabs.github.io](https://lunastraplabs.github.io). Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official places to download Lunastrap are this GitHub repository and [lunastrap.rf.gd](https://lunastrap.rf.gd). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <div align="center">
   <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
