@@ -1,17 +1,6 @@
-> [!CAUTION]
-> The only official places to download Lunastrap are this GitHub repository and [lunastrap.rf.gd](https://lunastrap.rf.gd). Any other websites offering downloads or claiming to be us are not controlled by us.
+# Lunastrap
 
-> [!TIP]
-> Give an star if you want, it helps developing Lunastrap.
-
-<div align="center">
-  <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
-  <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
-</div>
-
-<div align="center">
-
-![Lunastrap Preview](https://i.imgur.com/dohmTWP.png)
+<img align="right" src="https://github.com/lunastraplabs/lunastrap/blob/main/Images/Bloxstrap.png?raw=true">
 
 Lunastrap is a Bloxstrap fork aiming to enhance features.
 
