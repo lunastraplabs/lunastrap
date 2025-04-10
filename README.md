@@ -1,6 +1,6 @@
 # Lunastrap
 
-<img align="right" src="https://github.com/lunastraplabs/lunastrap/blob/main/Images/Bloxstrap.png?raw=true">
+<img align="right" src="https://github.com/lunastraplabs/lunastrap/blob/main/Images/Bloxstrap.png?raw=true" width="42">
 
 Lunastrap is a Bloxstrap fork aiming to enhance features.
 
