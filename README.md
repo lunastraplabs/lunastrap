@@ -27,11 +27,12 @@ Also we have an [official website](https://lunastrap.rf.gd).
   - Removed editor access warning
   - Presets
     - Disable roblox telemetry
+    - OLd theme
   - Rendering mode
     - Vulkan
     - OpenGL
-- Extras
-  - Custom bootstrapper themes
+  - Users Interface and Layout
+    - Chromoe UI toggle
 
 ---
 
