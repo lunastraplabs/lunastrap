@@ -27,7 +27,7 @@ Also we have an [official website](https://lunastrap.rf.gd).
   - Removed editor access warning
   - Presets
     - Disable roblox telemetry
-    - OLd theme
+    - Old theme
   - Rendering mode
     - Vulkan
     - OpenGL
