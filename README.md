@@ -1,20 +1,21 @@
 > [!CAUTION]
 > This is the only official place to install Lunastrap. Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
 
-# Lunastrap
+<p align="center">
+    <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png" width="700">
+</p>
 
-<img align="right" src="https://github.com/lunastraplabs/lunastrap/blob/main/Images/Bloxstrap.png?raw=true" width="150">
+<div align="center">
 
-Lunastrap is a Bloxstrap fork aiming to enhance features.
+**Lunastrap** is a Bloxstrap fork aiming to enhance features.
 
-Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/YnZkKmUCuJ).
+Found any bugs? [Submit an issue](https://github.com/Meddsam/Froststrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/KdR9vpRcUN).
 
 [![License][badge-repo-license]][repo-license]
-[![Workflow][badge-repo-workflow]][repo-actions]
 [![Downloads][badge-repo-downloads]][repo-releases]
 [![Version][badge-repo-latest]][repo-latest]
 [![Discord][badge-discord]][discord-invite]
-[![Stars][badge-repo-stars]][repo-stars]
+[![Stars][badge-repo-stars]][repo-stargazer]
 
 </div>
 
@@ -33,7 +34,7 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
     - Vulkan
     - OpenGL
   - Users Interface and Layout
-    - Chromoe UI toggle
+    - Chrome UI toggle
 
 ---
 
