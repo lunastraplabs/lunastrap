@@ -15,7 +15,7 @@ Found any bugs? [Submit an issue](https://github.com/Meddsam/Froststrap/issues/n
 [![Downloads][badge-repo-downloads]][repo-releases]
 [![Version][badge-repo-latest]][repo-latest]
 [![Discord][badge-discord]][discord-invite]
-[![Stars][badge-repo-stars]][repo-stargazer]
+[![Stars][badge-repo-stars]][repo-stars]
 
 </div>
 
