@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This is the only official place to install Lunastrap. Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
+
 # Lunastrap
 
 <img align="right" src="https://github.com/lunastraplabs/lunastrap/blob/main/Images/Bloxstrap.png?raw=true" width="150">
