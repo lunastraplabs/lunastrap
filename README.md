@@ -46,7 +46,7 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 [badge-repo-latest]:     https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat-square&color=7a84ff
 [badge-repo-stars]:      https://img.shields.io/github/stars/lunastraplabs/lunastrap?style=flat-square&color=dd9900
 
-[badge-discord]:  https://img.shields.io/discord/1418105005491359877?logo=discord&style=flat-square&logoColor=white&label=discord&color=4d3dff
+[badge-discord]:  https://img.shields.io/discord/1418105005491359877?logo=discord&style=flat-square&logoColor=white&label=discord&color=7a84ff
 
 [repo-license]:   https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
 [repo-actions]:   https://github.com/lunastraplabs/lunastrap/actions
