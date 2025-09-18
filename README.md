@@ -10,7 +10,7 @@
 
 **Lunastrap** is a Bloxstrap fork aiming to enhance features.
 
-Found any bugs? [Submit an issue](https://github.com/Meddsam/Froststrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/KdR9vpRcUN).
+Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/xDUgQ9aBEt).
 
 [![License][badge-repo-license]][repo-license]
 [![Downloads][badge-repo-downloads]][repo-releases]
@@ -47,11 +47,11 @@ Found any bugs? [Submit an issue](https://github.com/Meddsam/Froststrap/issues/n
 [badge-repo-latest]:     https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat-square&color=7a39fb
 [badge-repo-stars]:      https://img.shields.io/github/stars/lunastraplabs/lunastrap?style=flat-square&color=dd9900
 
-[badge-discord]: https://img.shields.io/discord/1346760094578249728?logo=discord&style=flat-square&logoColor=white&label=discord&color=4d3dff
+[badge-discord]:  https://img.shields.io/discord/1346760094578249728?logo=discord&style=flat-square&logoColor=white&label=discord&color=4d3dff
 
-[repo-license]:  https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/lunastraplabs/lunastrap/actions
-[repo-releases]: https://github.com/lunastraplabs/lunastrap/releases
-[repo-latest]:   https://github.com/lunastraplabs/lunastrap/releases/latest
-[repo-stars]: https://github.com/lunastraplabs/lunastrap/stargazers
-[discord-invite]: https://discord.gg/YnZkKmUCuJ
+[repo-license]:   https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
+[repo-actions]:   https://github.com/lunastraplabs/lunastrap/actions
+[repo-releases]:  https://github.com/lunastraplabs/lunastrap/releases
+[repo-latest]:    https://github.com/lunastraplabs/lunastrap/releases/latest
+[repo-stars]:     https://github.com/lunastraplabs/lunastrap/stargazers
+[discord-invite]: https://discord.gg/xDUgQ9aBEt
