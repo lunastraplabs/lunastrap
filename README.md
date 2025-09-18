@@ -23,18 +23,18 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 ## Differences from Bloxstrap
 
-- Deployment
-  - Channel switcher
-- Engine Settings
-  - Removed editor access warning
-  - Presets
-    - Disable roblox telemetry
-    - Old theme
-  - Rendering mode
-    - Vulkan
-    - OpenGL
-  - Users Interface and Layout
-    - Chrome UI toggle
+- ✨ Deployment
+  - 🎊 Channel switcher
+- 🌙 Engine Settings
+  - 🔓 Removed editor access warning
+  - ⭐ Presets
+    - 🧣 Disable roblox telemetry
+    - 😎 Old theme
+  - 🐋 Rendering mode
+    - 🍊 Vulkan
+    - 🍎 OpenGL
+  - 🎲 Users Interface and Layout
+    - 🪄 Chrome UI toggle
 
 ---
 
