@@ -40,8 +40,8 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 ### Considering switching? [Download it here](https://github.com/lunastraplabs/lunastrap/releases).
 
-[badge-repo-license]:    https://img.shields.io/github/license/lunastraplabs/lunastrap?style=flat-square
-[badge-repo-workflow]:   https://img.shields.io/github/actions/workflow/status/lunastraplabs/lunastrap/ci-release.yml?branch=main&style=flat-square&label=builds
+[badge-repo-license]:    https://img.shields.io/github/license/lunastraplabs/lunastrap?style=flat-square&color=7a84ff
+[badge-repo-workflow]:   https://img.shields.io/github/actions/workflow/status/lunastraplabs/lunastrap/ci-release.yml?branch=main&style=flat-square&label=builds&color=7a84ff
 [badge-repo-downloads]:  https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?style=flat-square&color=7a84ff
 [badge-repo-latest]:     https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat-square&color=7a84ff
 [badge-repo-stars]:      https://img.shields.io/github/stars/lunastraplabs/lunastrap?style=flat-square&color=dd9900
