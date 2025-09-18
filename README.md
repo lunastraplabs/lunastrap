@@ -2,6 +2,7 @@
 > This is the only official place to install Lunastrap. Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
 
 <p align="center">
+    <h1>Hey, i am not dead. My new discord username is terikdc.</h1>
     <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png" width="700">
 </p>
 
