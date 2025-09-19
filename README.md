@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This is the only official place to install Lunastrap. Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
+> The only official places to install Lunastrap is our github & our [website](https://lunastrap.netlify.app). Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
 
 <p align="center">
     <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png" width="700">
