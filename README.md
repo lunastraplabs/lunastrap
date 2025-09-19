@@ -40,13 +40,13 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 
 ### Considering switching? [Download it here](https://github.com/lunastraplabs/lunastrap/releases).
 
-[badge-repo-license]:    https://img.shields.io/github/license/lunastraplabs/lunastrap?style=flat-square&color=7a84ff
-[badge-repo-workflow]:   https://img.shields.io/github/actions/workflow/status/lunastraplabs/lunastrap/ci-release.yml?branch=main&style=flat-square&label=builds&color=7a84ff
-[badge-repo-downloads]:  https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?style=flat-square&color=7a84ff
-[badge-repo-latest]:     https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat-square&color=7a84ff
-[badge-repo-stars]:      https://img.shields.io/github/stars/lunastraplabs/lunastrap?style=flat-square&color=7a84ff
+[badge-repo-license]:    https://img.shields.io/github/license/lunastraplabs/lunastrap?style=flat&color=7a84ff
+[badge-repo-workflow]:   https://img.shields.io/github/actions/workflow/status/lunastraplabs/lunastrap/ci-release.yml?branch=main&style=flat&label=builds&color=7a84ff
+[badge-repo-downloads]:  https://img.shields.io/github/downloads/lunastraplabs/lunastrap/latest/total?style=flat&color=7a84ff
+[badge-repo-latest]:     https://img.shields.io/github/v/release/lunastraplabs/lunastrap?style=flat&color=7a84ff
+[badge-repo-stars]:      https://img.shields.io/github/stars/lunastraplabs/lunastrap?style=flat&color=7a84ff
 
-[badge-discord]:  https://img.shields.io/discord/1418105005491359877?logo=discord&style=flat-square&logoColor=white&label=discord&color=7a84ff
+[badge-discord]:  https://img.shields.io/discord/1418105005491359877?logo=discord&style=flat&logoColor=white&label=discord&color=7a84ff
 
 [repo-license]:   https://github.com/lunastraplabs/lunastrap/blob/main/LICENSE
 [repo-actions]:   https://github.com/lunastraplabs/lunastrap/actions
