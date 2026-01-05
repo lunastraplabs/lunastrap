@@ -56,4 +56,4 @@ Found any bugs? [Submit an issue](https://github.com/lunastraplabs/lunastrap/iss
 [repo-releases]:  https://github.com/lunastraplabs/lunastrap/releases
 [repo-latest]:    https://github.com/lunastraplabs/lunastrap/releases/latest
 [repo-stars]:     https://github.com/lunastraplabs/lunastrap/stargazers
-[discord-invite]: https://discord.gg/xDUgQ9aBEt
+[discord-invite]: [https://discord.gg/xDUgQ9aBEt](https://discord.gg/Ax5NGU2pVG)
