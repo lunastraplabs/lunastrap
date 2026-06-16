@@ -1,8 +1,8 @@
 > [!WARNING]
-> This is discontinued for now, it may be back soon. There will be bugs now. I recommend you switch to Fishstrap if this is not what you like.
+> This is discontinued.
 
 > [!CAUTION]
-> The only official places to install Lunastrap is our github & our [website](https://lunastrap.static.domains). Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
+> The only official places to install Lunastrap is our github. Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
 
 <p align="center">
     <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png" width="700">
