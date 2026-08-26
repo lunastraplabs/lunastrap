@@ -1,5 +1,5 @@
-> [!WARNING]
-> This is discontinued.
+> [!CAUTION]
+> Please switch to Fishstrap (If you want more features, use Froststrap instead) instead as Lunastrap will not have any development on it, if Lunastrap still works for you, good for you.
 
 > [!CAUTION]
 > The only official places to install Lunastrap is our github. Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
